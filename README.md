@@ -34,9 +34,6 @@ Usage
 Once installed, use the rocker switches to turn on/off the LED strips independently. The setup ensures that each LED strip has a dedicated switch, with power routed through the additional fuse box for extra protection.
 Future Additions
 
-Add video tutorial for the installation process
-
-    Introduce additional features like dimmer switches or multicolor LED control
 
 Contributions
 
